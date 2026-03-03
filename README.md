@@ -4,7 +4,7 @@ A production-grade React application for security scanning and vulnerability man
 
 ## Live Demo
 
-**URL:** [https://fenrir-security.vercel.app](https://fenrir-security.vercel.app)
+**URL:** [https://fenrir-security-eta.vercel.app/](https://fenrir-security-eta.vercel.app/)
 
 ## Features
 
